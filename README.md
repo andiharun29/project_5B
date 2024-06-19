@@ -1,4 +1,3 @@
-# PAM PROJECT UAS 2024
 ## Project Name
 Pet Care
 
