@@ -26,6 +26,4 @@ Admin dapat menghapus form yang telah dibuat
 Admin dapat melihat form yang telah ditambahkan ke database
 
 
-# Detail Pembagian Kelompok
-* Maula Ghani Al-Aufa : Membuat fitur login serta read dan ui
-*  Adinda Nurhayati: Membuat Create, update dan delete
+
