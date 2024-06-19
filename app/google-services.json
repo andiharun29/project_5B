@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575882106446",
+    "project_id": "cobalogin-7ef24",
+    "storage_bucket": "cobalogin-7ef24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575882106446:android:a73db0225b1cf95a6d151f",
+        "android_client_info": {
+          "package_name": "com.example.login_page_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXbSBmk6TeMVk2aQEhRygPncTUSiANxoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
